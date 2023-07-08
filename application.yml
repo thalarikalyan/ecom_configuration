@@ -36,4 +36,4 @@ microservice:
         uri: http://USER-SERVICE/users/
 
 test:
-  input: 4  
+  input: 10  
